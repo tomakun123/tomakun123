@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tomakun123
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on AI models
 - 📫 How to reach me slimey.ninja2024@gmail.com
 
