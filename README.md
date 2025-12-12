@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on AI models
-- 📫 How to reach me slimey.ninja2024@gmail.com
+- 📫 How to reach me tmd.nyu@gmail.com
 
 <!---
 tomakun123/tomakun123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
