@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @tomakun123
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Operating Systems
 - 💞️ I’m looking to collaborate on AI models
+- ✨ Code in Python and C++
 - 📫 How to reach me tmd.nyu@gmail.com
 
 <!---
